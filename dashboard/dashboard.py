@@ -12,8 +12,8 @@ sns.set(style='dark')
 st.title("Dashboard Analisis Kualitas Udara di Wilayah Guanyuan dan Huairou")
 
 # Memuat Dataset
-guanyuan_df = pd.read_csv('https://raw.githubusercontent.com/marceloreis/HTI/c8688fc517972e373d7c1df3a8d82b2a2468131f/PRSA_Data_20130301-20170228/PRSA_Data_Guanyuan_20130301-20170228.csv')
-huairou_df = pd.read_csv('https://raw.githubusercontent.com/marceloreis/HTI/c8688fc517972e373d7c1df3a8d82b2a2468131f/PRSA_Data_20130301-20170228/PRSA_Data_Huairou_20130301-20170228.csv')
+guanyuan_df = pd.read_csv('https://raw.githubusercontent.com/rzsca/submission/refs/heads/main/dashboard/data_1.csv')
+huairou_df = pd.read_csv('https://raw.githubusercontent.com/rzsca/submission/refs/heads/main/dashboard/data_2.csv')
 
 # Data Cleaning
 def clean_data(df):
