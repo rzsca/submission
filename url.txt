@@ -1,2 +1,1 @@
-  Local URL: http://localhost:8501
-  Network URL: http://10.3.10.110:8501
+https://submission-5nulotjyckqlcwsnv5sjgd.streamlit.app/
