@@ -1,4 +1,5 @@
 # Dashboard Analisis Kualitas Udara di Wilayah Guanyuan dan Huairou
+Dashboard ini dirancang untuk menganalisis kualitas udara di dua wilayah, Guanyuan dan Huairou. Menggunakan data yang relevan, dashboard ini memberikan wawasan mendalam tentang faktor-faktor yang memengaruhi kualitas udara dan membandingkan tingkat polusi antara kedua daerah.
 
 ## Setup Environment - Anaconda
 ```
